@@ -1,0 +1,6 @@
+Flask==2.2.5
+tensorflow==2.13.0
+opencv-python==4.7.0.72
+pyrebase==3.0.27
+paddlepaddle==2.5.0
+paddleocr==2.5.0
